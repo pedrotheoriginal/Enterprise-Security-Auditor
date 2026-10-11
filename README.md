@@ -31,3 +31,16 @@ Operamos sob rígidos padrões de compliance corporativo e engenharia reversa de
 
 ---
 *Interessado em uma auditoria de segurança rigorosa para o seu produto? Entre em contato via LinkedIn ou abra uma issue.*
+---
+
+## 📬 Contato & Propostas de Auditoria
+
+Atendemos projetos sob demanda, auditorias pontuais de código e contratos de retenção (*AppSec as a Service*). 
+
+Para solicitar uma avaliação de segurança ou discutir um escopo sob sigilo (NDA), entre em contato por e-mail:
+
+* **E-mail profissional:** `jaos38p@gmail.com` 
+
+*Dica: Para agilizar o primeiro contato, inclua no e-mail uma breve descrição da stack tecnológica do projeto (ex: Python/FastAPI, Node.js, Terraform) e o objetivo da auditoria.*
+
+Após a alinhamento inicial por e-mail, poderemos agendar uma reunião técnica ou prosseguir via canais diretos (WhatsApp/Slack) para formalização da proposta (SOW).
